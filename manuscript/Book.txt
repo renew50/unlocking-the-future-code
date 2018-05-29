@@ -3,4 +3,3 @@ EP02-01nodejs.md
 EP02-02CMD.md
 EP02-03VSCode.md
 EP05-01Dotnet.md
-EP08-08TheEight.md
