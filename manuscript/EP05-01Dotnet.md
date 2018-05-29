@@ -51,4 +51,4 @@
 
 ### VDO Link :  
 
-[![alt text](https://img.youtube.com/vi/Hu_HgZ533M0/0.jpg)](http://www.youtube.com/watch?v=Hu_HgZ533M0)
+[![alt text](images/EP05-01Dotnet/14.PNG)](http://www.youtube.com/watch?v=Hu_HgZ533M0)

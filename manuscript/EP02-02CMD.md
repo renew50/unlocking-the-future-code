@@ -120,4 +120,4 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 
 ---
 
-[VDO Link : ![alt text](https://img.youtube.com/vi/276yxgySH6k/0.jpg)](http://www.youtube.com/watch?v=276yxgySH6k)
+[VDO Link : ![alt text](images/EP02-02CMD/20.PNG)](http://www.youtube.com/watch?v=276yxgySH6k)

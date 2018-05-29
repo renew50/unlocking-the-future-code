@@ -45,4 +45,4 @@
 
 ### VDO Link :  
 
-[![alt text](https://img.youtube.com/vi/Zgy0d3w5ivA/0.jpg)](http://www.youtube.com/watch?v=Zgy0d3w5ivA)
+[![alt text](images/EP02-03VSCode/13.PNG)](http://www.youtube.com/watch?v=Zgy0d3w5ivA)
