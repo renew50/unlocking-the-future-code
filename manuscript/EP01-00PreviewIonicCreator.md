@@ -11,7 +11,8 @@ ionic creator สามารถสร้างเว็บ web app จบได
 มีเครื่องมือพื้นฐานให้เลือกใช้ค่อนข้างครบ ง่ายต่อการปรับแต่ง มีความยืดหยุ่นสูง 
 ___
 
-<a class="improve-v2-docs" href=' https://creator.ionic.io'>ขั้นตอนการสมัคร เข้าไปที่  https://creator.ionic.io</a>
+ขั้นตอนการสมัคร เข้าไปที่ [https://creator.ionic.io](https://creator.ionic.io)
+
 ### การสมัครสมาชิก
 
 หากยังไม่มี Account ให้เลือก Get started  
@@ -76,13 +77,12 @@ ___
 
 เราจะสลับมุมมองการทำงานจริงโดยกด icon รูปตาด้านบนโมบาย เพื่อดูว่าตัว App จริงจะหน้าตาเป็นยังไง และสามารถจำลองการทำงานจริงได้เลย
 
-![alt text ](images/EP01-00PreviewIonicCreator/11.PNG)
+![alt text](images/EP01-00PreviewIonicCreator/11.PNG)
 ___
 
 นี่คือหน้าตาของ ionic creator คร่าวๆ 
 หากต้องการดู VDO การทำงานจริงๆ ดูตามวิดีโอที่นี่
 
- 
-### <a class="improve-v2-docs" href='https://youtu.be/S4rTmzAyd5s'>VDO Link : </a>
-<a href="https://youtu.be/S4rTmzAyd5s" target="_blank">
-<img src="images/EP01-00PreviewIonicCreator/12.PNG"/>
+[VDO Link : ![alt text](images/EP01-00PreviewIonicCreator/12.PNG)](https://youtu.be/S4rTmzAyd5s)
+
+
