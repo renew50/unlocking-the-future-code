@@ -108,16 +108,15 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
     rd [ชื่อ Folder]
     ```
     ![16](images/EP02-02CMD/16.PNG)
----
  * เมื่อกด Enter แล้ว Folder ก็จะถูกลบ
 
     ![17](images/EP02-02CMD/17.PNG)
----
+
  * สามารถใช้คำสั่ง dir เพื่อดูการเปลี่ยนแปลงได้
 
     ![18](images/EP02-02CMD/18.PNG)  
 เห็นได้ว่า Folder AAA ได้ถูกลบไปแล้ว  
 
----
+* * *
 
 [VDO Link : ![alt text](images/EP02-02CMD/20.PNG)](http://www.youtube.com/watch?v=276yxgySH6k)

@@ -11,7 +11,8 @@
 
 3. Download เสร็จแล้วกดติดตั้งได้เลย  
 ![img](images/EP02-03VSCode/03.PNG)
----
+
+* * *
 
 ### ขั้นตอนการติดตั้ง Visual Studio Code
 
@@ -41,8 +42,7 @@
 
 9. หน้าต่างของ Visual Studio Code ที่ได้ทำการติดตั้งเรียบร้อยแล้ว  
 ![img](images/EP02-03VSCode/12.PNG)
----
 
-### VDO Link :  
+* * *
 
-[![alt text](images/EP02-03VSCode/13.PNG)](http://www.youtube.com/watch?v=Zgy0d3w5ivA)
+[VDO Link : ![alt text](images/EP02-03VSCode/13.PNG)](http://www.youtube.com/watch?v=Zgy0d3w5ivA)
