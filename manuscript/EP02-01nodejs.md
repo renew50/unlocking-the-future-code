@@ -11,7 +11,6 @@ npm เอาไว้ลงpacket สามารถค้นหาpacketต่
 ขั้นตอนการลงNodejs
 
 - เข้าไปโหลดได้ที่ [nodejs.org](https://nodejs.org/en/)
-
 - ดาวโหลดเวอร์ชั่น 8.11.2 LTS
 
 ![alt text](images/EP02-01nodejs/1.png)  
@@ -19,6 +18,7 @@ npm เอาไว้ลงpacket สามารถค้นหาpacketต่
 * * *
 
 ขั้นตอนการinstall
+
 เปิดตัวที่โหลดขึ้นมา
 ![alt text](images/EP02-01nodejs/2.png)
 
@@ -61,10 +61,13 @@ npm เอาไว้ลงpacket สามารถค้นหาpacketต่
 * * *
 
 พิม node -v แล้ว Enter เพื่อทำการเช็คเวอร์ชั่น
+
 ![alt text](images/EP02-01nodejs/9.png)
+
 ถ้ามีข้อความ V8.11.2 แสดงว่าลง Nodejs เรียบร้อยแล้ว
 
 * * *
 
 ## หมายเหตุ
+
 ถ้าลง Nodejs ไม่ได้ต้องไปปิดแอนตี้ไวรัสก่อนแล้วทำการลงNodejsใหม่
