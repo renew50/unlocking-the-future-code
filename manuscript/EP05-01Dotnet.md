@@ -11,7 +11,8 @@
 
 3. Download เสร็จแล้วกดติดตั้งได้เลย
 ![img](images/EP05-01Dotnet/03.PNG)
----
+
+* * *
 
 ### ขั้นตอนการติดตั้ง Dotnet core CLI
 
@@ -23,7 +24,8 @@
 
 3. ติดตั้งเสร็จเรียบร้อยแล้ว กด Close เพื่อปิดตัวติดตั้งได้เลย  
 ![img](images/EP05-01Dotnet/06.PNG)
----
+
+* * *
 
 ### ตรวจสอบว่าโปรแกรมได้ทำการติดตั้งแล้ว
 
@@ -47,8 +49,8 @@
 
 7. เมื่อกด Enter จะแสดงข้อมูลคำสั่งต่างๆ ของ Dotnet core CLI ให้เลือกใช้  
 ![img](images/EP05-01Dotnet/13.PNG)
----
 
-### VDO Link :  
+* * *
 
-[![alt text](images/EP05-01Dotnet/14.PNG)](http://www.youtube.com/watch?v=Hu_HgZ533M0)
+[VDO Link : ![alt text](images/EP05-01Dotnet/14.PNG)](http://www.youtube.com/watch?v=Hu_HgZ533M0)
+
