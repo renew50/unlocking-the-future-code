@@ -19,19 +19,18 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 * * *
 ### คำสั่งพื้นฐาน
 
-1. DIR (Directory)  
+1.DIR (Directory)  
 ถ้าเราต้องการดูว่าใน Folder ปัจจุบันที่เราอยู่มี Folder หรือ File อะไรอยู่ข้างในบ้าง 
+   
+   *พิมพ์คำสั่ง 
 
-    * พิมพ์คำสั่ง 
-
-    A>
     A>  dir 
-    A>
 
     ![03](images/EP02-02CMD/03.PNG)
+
 * * *
 
-* เมื่อกด Enter จะแสดงข้อมูล Folder และ File ต่างๆ ที่มีอยู่ใน Folder (ที่เราอยู่)
+*เมื่อกด Enter จะแสดงข้อมูล Folder และ File ต่างๆ ที่มีอยู่ใน Folder (ที่เราอยู่)
 
     ![04](images/EP02-02CMD/04.PNG)
 
@@ -42,9 +41,8 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 
     * พิมพ์คำสั่ง  
 
-    A>
     A>  cd [ชื่อ Folder] 
-    A>
+
 
     ![05](images/EP02-02CMD/05.PNG)
 
@@ -58,9 +56,7 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 
     * พิมพ์คำสั่ง  
 
-    A>
     A>  cd ..
-    A>
 
     ![07](images/EP02-02CMD/07.PNG)
 * * *
@@ -71,12 +67,12 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 
 * * *
 
-3. CLS (Clear Screen)  
+3.CLS (Clear Screen)  
 เมื่อเรารู้สึกว่าหน้าต่างเริ่มรก เราสามารถล้าง(Clear) หน้าต่างได้
-    * พิมพ์คำสั่ง  
-    A>
+    - พิมพ์คำสั่ง  
+
     A>  cls
-    A>
+
     ![09](images/EP02-02CMD/09.PNG)
 
 * * *
@@ -91,10 +87,8 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 ถ้าเราต้องการไปยัง Drive ที่เราต้องการ เช่น ต้องการไปที่ Drive D
 
     * พิมพ์คำสั่ง 
-
-    A>
+    
     A>  D:
-    A>
 
     ![11](images/EP02-02CMD/11.PNG)
 * * *
@@ -114,9 +108,7 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 
     * พิมพ์คำสั่ง  
 
-    A>
     A>  md [ชื่อ Folder]
-    A>
 
     ![13](images/EP02-02CMD/13.PNG)
 
@@ -140,10 +132,9 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 หากเราต้องการลบ Folder ก็สามารถทำได้ เช่น ต้องการลบ Folder AAA
 
     * พิมพ์คำสั่ง  
-    A>
+    
     A>  rd [ชื่อ Folder]
-    A>
-
+    
     ![16](images/EP02-02CMD/16.PNG)
  * เมื่อกด Enter แล้ว Folder ก็จะถูกลบ
 
