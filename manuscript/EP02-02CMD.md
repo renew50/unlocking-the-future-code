@@ -22,7 +22,7 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 1.DIR (Directory)  
 ถ้าเราต้องการดูว่าใน Folder ปัจจุบันที่เราอยู่มี Folder หรือ File อะไรอยู่ข้างในบ้าง 
    
-   *พิมพ์คำสั่ง 
+   * พิมพ์คำสั่ง 
 
     A>  dir 
 
