@@ -1,4 +1,4 @@
-# แนะนำ ionic creator 
+# EP 01 Preview ionic creator 
 
 ionic creator สามารถสร้างเว็บ web app จบได้บนเว็บไซต์ที่เดียว
 

@@ -1,4 +1,4 @@
-# การใช้คำสั่ง CMD ( Command Prompt ) พื้นฐาน
+# EP 02-02 Basic Command Prompt
 
 ### CMD คืออะไร
 

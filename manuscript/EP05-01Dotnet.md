@@ -1,4 +1,4 @@
-# ติดตั้ง Dotnet core CLI
+# EP 05-01 Install Dotnet core CLI
 
 ### Download ตัวติดตั้ง Dotnet core CLI
 
