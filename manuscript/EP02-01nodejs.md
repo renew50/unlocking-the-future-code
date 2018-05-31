@@ -76,5 +76,3 @@ npm เอาไว้ลงpacket สามารถค้นหาpacketต่
 A>หมายเหตุ
 A>ถ้าลง Nodejs ไม่ได้ต้องไปปิดแอนตี้ไวรัสก่อนแล้วทำการลงNodejsใหม่
 
-
-[![](images/EP01-00PreviewIonicCreator/12.PNG)](https://youtu.be/S4rTmzAyd5s)
