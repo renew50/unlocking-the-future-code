@@ -25,7 +25,7 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 1) DIR (Directory)  
 ถ้าเราต้องการดูว่าใน Folder ปัจจุบันที่เราอยู่มี Folder หรือ File อะไรอยู่ข้างในบ้าง 
    
-   * พิมพ์คำสั่ง 
+* พิมพ์คำสั่ง 
 
     A>  dir 
 
@@ -72,6 +72,7 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 
 3) CLS (Clear Screen)  
 เมื่อเรารู้สึกว่าหน้าต่างเริ่มรก เราสามารถล้าง(Clear) หน้าต่างได้
+
 * พิมพ์คำสั่ง  
 
 A>cls
@@ -117,6 +118,7 @@ A>cls
 ![](images/EP02-02CMD/13.PNG)
 
 * * *
+
 * เมื่อกด Enter แล้ว Folder ก็จะถูกสร้าง
 
 ![](images/EP02-02CMD/14.PNG)
