@@ -1,4 +1,6 @@
-# โครงสร้างโปรเจค ASP.NET Core MVC
+# EP 06-03 Structure Project ASP.NET Core MVC
+
+โครงสร้างโปรเจค ASP.NET Core MVC
 
 * เมื่อทำการรัน server ของโปรเจค โดยไปที่ Debug->Start Without Debugging (หรือกดคีย์ลัด Ctrl+F5)  
 

@@ -1,4 +1,4 @@
-# ASP.NET CORE + ANGULAR
+# EP 05-02 ASP.NET CORE + ANGULAR
 
 ใช้ดูคำสั่งต่างของ ASP.NET CORE  
 
