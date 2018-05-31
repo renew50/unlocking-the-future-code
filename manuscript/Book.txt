@@ -3,3 +3,9 @@ EP02-01nodejs.md
 EP02-02CMD.md
 EP02-03VSCode.md
 EP05-01Dotnet.md
+EP05-02 ASP.net.md
+EP05-03ASP.net.md
+EP05-04VSCodeAngula.md
+EP06-01.md
+EP06-02.md
+EP06-03ASP.NETCoreMVC.md
