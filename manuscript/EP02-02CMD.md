@@ -12,11 +12,11 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 
 1) ทำการเปิดหน้าต่าง Run โดยคลิกที่ปุ่ม Start > Run  (หรือจะใช้คีย์ลัด Windows + R) แล้ว  พิมพ์คำสั่ง CMD  
 
-![01](images/EP02-02CMD/01.PNG)
+![](images/EP02-02CMD/01.PNG)
 
 2) กด OK ก็จะเข้าสู่โหมด Command Prompt พร้อมใช้งาน   
 
-![02](images/EP02-02CMD/02.PNG)
+![](images/EP02-02CMD/02.PNG)
 
 * * *
 
@@ -29,13 +29,13 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 
     A>  dir 
 
-![03](images/EP02-02CMD/03.PNG)
+![](images/EP02-02CMD/03.PNG)
 
 * * *
 
 * เมื่อกด Enter จะแสดงข้อมูล Folder และ File ต่างๆ ที่มีอยู่ใน Folder (ที่เราอยู่)
 
-![04](images/EP02-02CMD/04.PNG)
+![](images/EP02-02CMD/04.PNG)
 
 * * *
 
@@ -46,13 +46,13 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 
     A>  cd [ชื่อ Folder] 
 
-![05](images/EP02-02CMD/05.PNG)
+![](images/EP02-02CMD/05.PNG)
 
 * * *
 
 * เมื่อกด Enter เราก็จะไปอยู่ ณ Folder ที่เราต้องการ
 
-![06](images/EP02-02CMD/06.PNG)
+![](images/EP02-02CMD/06.PNG)
   
   และถ้าเราต้องการกลับมายัง Folder ก่อนหน้า
 
@@ -60,13 +60,13 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 
     A>  cd ..
 
-![07](images/EP02-02CMD/07.PNG)
+![](images/EP02-02CMD/07.PNG)
 
 * * *
 
 * เมื่อกด Enter เราก็จะกลับมาอยู่ ณ Folder ก่อนหน้า
 
-![08](images/EP02-02CMD/08.PNG)
+![](images/EP02-02CMD/08.PNG)
 
 * * *
 
@@ -76,13 +76,13 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 
 A>cls
 
-![09](images/EP02-02CMD/09.PNG)
+![](images/EP02-02CMD/09.PNG)
 
 * * *
 
 * เมื่อกด Enter หน้าต่างก็จะถูกล้าง(Clear)
 
-![10](images/EP02-02CMD/10.PNG)
+![](images/EP02-02CMD/10.PNG)
 
 * * *
 
@@ -93,17 +93,17 @@ A>cls
 
     A>  D:
 
-![11](images/EP02-02CMD/11.PNG)
+![](images/EP02-02CMD/11.PNG)
 
 * * *
 
 * เมื่อกด Enter เราก็จะไปอยู่ ณ Folder ที่เราต้องการ
 
-![12](images/EP02-02CMD/12.PNG)
+![](images/EP02-02CMD/12.PNG)
    
    และถ้าเราต้องการรู้ว่าข้างในมีอะไรบ้างก็สามารถใช้คำสั่ง dir เพื่อดูข้อมูลได้เช่นกัน
 
-![19](images/EP02-02CMD/19.PNG)
+![](images/EP02-02CMD/19.PNG)
 
 * * *
 
@@ -114,18 +114,18 @@ A>cls
 
     A>  md [ชื่อ Folder]
 
-![13](images/EP02-02CMD/13.PNG)
+![](images/EP02-02CMD/13.PNG)
 
 * * *
 * เมื่อกด Enter แล้ว Folder ก็จะถูกสร้าง
 
-![14](images/EP02-02CMD/14.PNG)
+![](images/EP02-02CMD/14.PNG)
 
 * * *
 
 * สามารถใช้คำสั่ง dir เพื่อดูการเปลี่ยนแปลงได้
 
-![15](images/EP02-02CMD/15.PNG)  
+![](images/EP02-02CMD/15.PNG)  
 
 เห็นได้ว่า Folder BBB ได้ถูกสร้างขึ้นมาแล้ว
 
@@ -138,15 +138,15 @@ A>cls
     
     A>  rd [ชื่อ Folder]
     
-![16](images/EP02-02CMD/16.PNG)
+![](images/EP02-02CMD/16.PNG)
 
  * เมื่อกด Enter แล้ว Folder ก็จะถูกลบ
 
-![17](images/EP02-02CMD/17.PNG)
+![](images/EP02-02CMD/17.PNG)
 
  * สามารถใช้คำสั่ง dir เพื่อดูการเปลี่ยนแปลงได้
 
-![18](images/EP02-02CMD/18.PNG)  
+![](images/EP02-02CMD/18.PNG)  
 
 เห็นได้ว่า Folder AAA ได้ถูกลบไปแล้ว  
 
