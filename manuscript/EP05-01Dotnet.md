@@ -81,3 +81,5 @@ A>dotnet -h หรือ --help
 [VDO Link : ](http://www.youtube.com/watch?v=Hu_HgZ533M0)
 
 [![](images/EP05-01Dotnet/14.PNG)](http://www.youtube.com/watch?v=Hu_HgZ533M0)
+
+Unlocking TFC
