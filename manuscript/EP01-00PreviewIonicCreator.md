@@ -96,3 +96,4 @@ Componants  คือส่วนประกอบที่เราจะเ�
 
 [![](images/EP01-00PreviewIonicCreator/12.PNG)](https://youtu.be/S4rTmzAyd5s)
 
+unlocking TFC
