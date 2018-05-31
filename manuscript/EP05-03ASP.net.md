@@ -1,7 +1,6 @@
 # EP 05-03 Structure Project ASP.NET
 
-
-โครงสร้างของโปรเจ็คของ ASP.NET
+### โครงสร้างของโปรเจ็คของ ASP.NET
 
 ASP.NET Core 
 
@@ -9,7 +8,7 @@ ASP.NET Core
 
 Angular
 
-* สร้างScript 
+* ใช้สร้าง Script 
 
 * * *
 
