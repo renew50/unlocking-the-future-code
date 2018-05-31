@@ -1,8 +1,8 @@
 # EP 02-01  Nodsjs
 Nodejs ใช้ทำอะไร
-เอาไว้รันJavaScript
 
-จำลองServer 
+* เอาไว้รันJavaScript
+* จำลองServer 
 
 npm เอาไว้ลงpacket สามารถค้นหาpacketต่างๆได้ที่ [www.npmjs.com](https://www.npmjs.com/)
 
@@ -10,64 +10,70 @@ npm เอาไว้ลงpacket สามารถค้นหาpacketต่
 
 ขั้นตอนการลงNodejs
 
-- เข้าไปโหลดได้ที่ [nodejs.org](https://nodejs.org/en/)
-- ดาวโหลดเวอร์ชั่น 8.11.2 LTS
+* เข้าไปโหลดได้ที่ [nodejs.org](https://nodejs.org/en/)
+* ดาวโหลดเวอร์ชั่น 8.11.2 LTS
 
-![alt text](images/EP02-01nodejs/1.png)  
+![](images/EP02-01nodejs/1.png)  
 
 * * *
 
 ขั้นตอนการinstall
-
 เปิดตัวที่โหลดขึ้นมา
-![alt text](images/EP02-01nodejs/2.png)
+
+![](images/EP02-01nodejs/2.png)
 
 * * *
 
 กด Next
-![alt text](images/EP02-01nodejs/3.png)
+
+![](images/EP02-01nodejs/3.png)
 
 * * *
 
 กด Next
-![alt text](images/EP02-01nodejs/4.png)  
+
+![](images/EP02-01nodejs/4.png)  
 
 * * *
 
 กด Install
-![alt text](images/EP02-01nodejs/5.png)
+
+![](images/EP02-01nodejs/5.png)
 
 * * *
 
 รอซักครู่รอให้Nodejsลงให้เรียบร้อย
-![alt text](images/EP02-01nodejs/6.png)
+
+![](images/EP02-01nodejs/6.png)
 
 * * *
 
 เมื่อเสร็จเรียบร้อยกด Finish 
-![alt text](images/EP02-01nodejs/7.png)
+
+![](images/EP02-01nodejs/7.png)
 
 * * *
 
 ขั้นตอนการเช็คว่าNodejsได้ลงแล้วหรือยัง
-กดปุ่มวินโด + R      
-![alt text](images/EP02-01nodejs/12.jpg)
+กดปุ่มวินโด + R  
+
+![](images/EP02-01nodejs/12.jpg)
 
 * * *
 
 พิม cmd แล้วกดExter
-![alt text](images/EP02-01nodejs/13.png)
+
+![](images/EP02-01nodejs/13.png)
 
 * * *
 
 พิม node -v แล้ว Enter เพื่อทำการเช็คเวอร์ชั่น
 
-![alt text](images/EP02-01nodejs/9.png)
+![](images/EP02-01nodejs/9.png)
 
 ถ้ามีข้อความ V8.11.2 แสดงว่าลง Nodejs เรียบร้อยแล้ว
 
 * * *
 
-> หมายเหตุ
-
-ถ้าลง Nodejs ไม่ได้ต้องไปปิดแอนตี้ไวรัสก่อนแล้วทำการลงNodejsใหม่
+A>หมายเหตุ
+A>ถ้าลง Nodejs ไม่ได้ต้องไปปิดแอนตี้ไวรัสก่อนแล้วทำการลงNodejsใหม่
