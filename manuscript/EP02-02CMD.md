@@ -27,7 +27,7 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
    
 * พิมพ์คำสั่ง 
 
-    A>  dir 
+A>dir 
 
 ![](images/EP02-02CMD/03.PNG)
 
@@ -44,7 +44,7 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 
 * พิมพ์คำสั่ง  
 
-    A>  cd [ชื่อ Folder] 
+A>cd [ชื่อ Folder] 
 
 ![](images/EP02-02CMD/05.PNG)
 
@@ -58,7 +58,7 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 
 * พิมพ์คำสั่ง  
 
-    A>  cd ..
+A>cd ..
 
 ![](images/EP02-02CMD/07.PNG)
 
@@ -90,9 +90,9 @@ A>cls
 4) เปลี่ยน Drive (ไปยัง Drive D หรือ Drive ที่มีในเครื่อง)  
 ถ้าเราต้องการไปยัง Drive ที่เราต้องการ เช่น ต้องการไปที่ Drive D
 
- * พิมพ์คำสั่ง
+* พิมพ์คำสั่ง
 
-    A>  D:
+A>D:
 
 ![](images/EP02-02CMD/11.PNG)
 
@@ -113,7 +113,7 @@ A>cls
 
 * พิมพ์คำสั่ง  
 
-    A>  md [ชื่อ Folder]
+A>md [ชื่อ Folder]
 
 ![](images/EP02-02CMD/13.PNG)
 
@@ -138,15 +138,15 @@ A>cls
 
 * พิมพ์คำสั่ง  
     
-    A>  rd [ชื่อ Folder]
+A>rd [ชื่อ Folder]
     
 ![](images/EP02-02CMD/16.PNG)
 
- * เมื่อกด Enter แล้ว Folder ก็จะถูกลบ
+* เมื่อกด Enter แล้ว Folder ก็จะถูกลบ
 
 ![](images/EP02-02CMD/17.PNG)
 
- * สามารถใช้คำสั่ง dir เพื่อดูการเปลี่ยนแปลงได้
+* สามารถใช้คำสั่ง dir เพื่อดูการเปลี่ยนแปลงได้
 
 ![](images/EP02-02CMD/18.PNG)  
 
