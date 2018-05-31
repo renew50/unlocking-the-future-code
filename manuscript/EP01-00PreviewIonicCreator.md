@@ -94,5 +94,5 @@ Componants  คือส่วนประกอบที่เราจะเ�
 
 [VDO Link : ](https://youtu.be/S4rTmzAyd5s)
 
-[![alt text](images/EP01-00PreviewIonicCreator/12.PNG)](https://youtu.be/S4rTmzAyd5s)
+[![](images/EP01-00PreviewIonicCreator/12.PNG)](https://youtu.be/S4rTmzAyd5s)
 
