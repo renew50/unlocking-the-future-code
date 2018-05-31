@@ -10,21 +10,22 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 
 ### การเข้าใช้งานโหมด Command Prompt
 
-1. ทำการเปิดหน้าต่าง Run โดยคลิกที่ปุ่ม Start > Run  (หรือจะใช้คีย์ลัด Windows + R) แล้ว  พิมพ์คำสั่ง CMD  
+1) ทำการเปิดหน้าต่าง Run โดยคลิกที่ปุ่ม Start > Run  (หรือจะใช้คีย์ลัด Windows + R) แล้ว  พิมพ์คำสั่ง CMD  
 
 ![01](images/EP02-02CMD/01.PNG)
 
-2. กด OK ก็จะเข้าสู่โหมด Command Prompt พร้อมใช้งาน   
+2) กด OK ก็จะเข้าสู่โหมด Command Prompt พร้อมใช้งาน   
 
 ![02](images/EP02-02CMD/02.PNG)
 
 * * *
+
 ### คำสั่งพื้นฐาน
 
-1. DIR (Directory)  
+1) DIR (Directory)  
 ถ้าเราต้องการดูว่าใน Folder ปัจจุบันที่เราอยู่มี Folder หรือ File อะไรอยู่ข้างในบ้าง 
    
-* พิมพ์คำสั่ง 
+   * พิมพ์คำสั่ง 
 
     A>  dir 
 
@@ -38,7 +39,7 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 
 * * *
 
-2. CD (Change Directory)  
+2) CD (Change Directory)  
 ถ้าเราต้องการไปยัง Folder ที่เราต้องการ เช่น ต้องการไปที่ Folder Desktop
 
 * พิมพ์คำสั่ง  
@@ -69,9 +70,9 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 
 * * *
 
-3. CLS (Clear Screen)  
+3) CLS (Clear Screen)  
 เมื่อเรารู้สึกว่าหน้าต่างเริ่มรก เราสามารถล้าง(Clear) หน้าต่างได้
-- พิมพ์คำสั่ง  
+* พิมพ์คำสั่ง  
 
 A>cls
 
@@ -85,7 +86,7 @@ A>cls
 
 * * *
 
-4. เปลี่ยน Drive (ไปยัง Drive D หรือ Drive ที่มีในเครื่อง)  
+4) เปลี่ยน Drive (ไปยัง Drive D หรือ Drive ที่มีในเครื่อง)  
 ถ้าเราต้องการไปยัง Drive ที่เราต้องการ เช่น ต้องการไปที่ Drive D
 
  * พิมพ์คำสั่ง
@@ -106,7 +107,7 @@ A>cls
 
 * * *
 
-5. MD (Make Directory)  
+5) MD (Make Directory)  
 หากเราต้องการสร้าง Folder ก็สามารถทำได้ เช่น ต้องการสร้าง Folder BBB
 
 * พิมพ์คำสั่ง  
@@ -130,7 +131,7 @@ A>cls
 
 * * *
 
-6. RD (Remove Directory)  
+6) RD (Remove Directory)  
 หากเราต้องการลบ Folder ก็สามารถทำได้ เช่น ต้องการลบ Folder AAA
 
 * พิมพ์คำสั่ง  
@@ -138,6 +139,7 @@ A>cls
     A>  rd [ชื่อ Folder]
     
 ![16](images/EP02-02CMD/16.PNG)
+
  * เมื่อกด Enter แล้ว Folder ก็จะถูกลบ
 
 ![17](images/EP02-02CMD/17.PNG)
@@ -145,6 +147,7 @@ A>cls
  * สามารถใช้คำสั่ง dir เพื่อดูการเปลี่ยนแปลงได้
 
 ![18](images/EP02-02CMD/18.PNG)  
+
 เห็นได้ว่า Folder AAA ได้ถูกลบไปแล้ว  
 
 * * *
