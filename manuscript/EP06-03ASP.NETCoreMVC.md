@@ -2,7 +2,7 @@
 
 ### โครงสร้างโปรเจค ASP.NET Core MVC
 
-* เมื่อทำการรัน server ของโปรเจค โดยไปที่ Debug->Start Without Debugging (หรือกดคีย์ลัด Ctrl+F5)  
+* เมื่อทำการ run server ของโปรเจค โดยไปที่ Debug -> Start Without Debugging (หรือกดคีย์ลัด Ctrl+F5)  
 
 ![](images/EP06/01.PNG)
 
@@ -16,13 +16,14 @@
 
 ### เราจะไปดูกันว่า สิ่งที่ทำให้ Server สามารถเปิดหน้า Website นี้ขึ้นมาให้เราได้ มีส่วนประกอบอะไรบ้าง
 
-1) Server จะทำการ run จากไฟล์ Startup.cs  
+
+1) Server จะ run จากไฟล์ Startup.cs  
 
 ![](images/EP06/03.PNG)
 
 * * *
 
-2) เมื่อเข้าไปดูที่ไฟล์ Startup.cs เและลื่อนลงไปด้านล่างสุด จะมี default routing  
+2) เมื่อเข้าไปดูที่ไฟล์ Startup.cs เและเลื่อนลงไปด้านล่างสุด จะมี default routing  
 
 ![](images/EP06/04.PNG)
 
@@ -40,19 +41,19 @@
 
 * * *
 
-5) ลองกดไปที่ View->Home คลิกที่ไฟล์ Index.cshtml จะปรากฏไฟล์ HTML ที่ Server นำมาแสดงผลเป็น Website จากที่ได้รันไปข้างต้น  
+5) ลองกดไปที่ View -> Home คลิกที่ไฟล์ Index.cshtml จะปรากฏไฟล์ HTML ที่ Server นำมาแสดงผลเป็น Website จากที่ได้ run ไปข้างต้น  
 
 ![](images/EP06/11.PNG)
 
 * * *
 
-6) ซึ่งทุกอย่างที่เห็นจากฝั่งซ้ายมือ คือซึ่งที่เกิดจากไฟล์ HTML ในฝั่งขวามือ 
+6) ซึ่งทุกอย่างที่เห็นจากฝั่งซ้ายมือ คือสิ่งที่เกิดจากไฟล์ HTML ในฝั่งขวามือ 
 
 ![](images/EP06/12.PNG)
 
 * * *
 
-7) และหากเราลองทำการแก้ไข Code จากไฟล์ Index.cshtml ตัว Website ก็จะเปลี่ยนตามไปด้วย  
+7) และหากเราลองแก้ไข Code จากไฟล์ Index.cshtml ตัว Website ก็จะเปลี่ยนตามไปด้วย  
 
 ![](images/EP06/14.PNG)
 
