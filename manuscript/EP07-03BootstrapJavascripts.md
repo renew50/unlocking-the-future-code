@@ -2,22 +2,26 @@
 
 ### ส่วนประกอบหลัก 3 ส่วน ที่ใช้ประกอบการบรรยายในวิดีโอนี้
 
-1. JavaScript - Bootstrap  
+1) JavaScript - Bootstrap  
 แหล่งรวบรวม Components ต่างๆ ที่เราสามารถคัดลอก Code มาใช้พัฒนา Web ได้เลย โดยที่ไม่ต้องเขียน Code  
 
-![img](images/EP07-03BootstrapJavascripts/01.PNG) 
+![](images/EP07-03BootstrapJavascripts/01.PNG) 
 
 https://getbootstrap.com/docs/3.3/javascript/ 
 
-2. VS Code  
+* * *
+
+2) VS Code  
 โปรแกรม IDE ที่ช่วยในการเขียน Code ได้ง่ายขึ้น  
 
-![img](images/EP07-03BootstrapJavascripts/02.PNG)  
+![](images/EP07-03BootstrapJavascripts/02.PNG)  
 
-3. Web Demo  
+* * *
+
+3) Web Demo  
 เพื่อตรวจสอบระหว่างการพัฒนา Web ว่ามีหน้าตาเปลี่ยนไปอย่างไร 
 
-![img](images/EP07-03BootstrapJavascripts/03.PNG)  
+![](images/EP07-03BootstrapJavascripts/03.PNG)  
 
 * * *
 
@@ -25,15 +29,19 @@ https://getbootstrap.com/docs/3.3/javascript/
 
 * เข้าไปที่ Modal เลื่อนลงมาจะเห็น ตัวอย่างของ Modal title ดังนี้  
 
-![img](images/EP07-03BootstrapJavascripts/04.PNG)  
+![](images/EP07-03BootstrapJavascripts/04.PNG)  
+
+* * *
 
 * สามารถดูตัวอย่างได้ที่ Live demo modal  
 
-![img](images/EP07-03BootstrapJavascripts/05.PNG)  
+![](images/EP07-03BootstrapJavascripts/05.PNG)  
+
+* * *
 
 * จะปรากฏหน้าต่างแสดงตัวอย่าง Modal  
 
-![img](images/EP07-03BootstrapJavascripts/06.PNG)  
+![](images/EP07-03BootstrapJavascripts/06.PNG)  
 
 * * *
 
@@ -41,44 +49,52 @@ https://getbootstrap.com/docs/3.3/javascript/
 
 * หากต้องการใช้ component นี้ สามารถคัดลอก code (ในกรอบสีแดง) นำไปใช้ได้เลย  
 
-![img](images/EP07-03BootstrapJavascripts/07.PNG)  
+![](images/EP07-03BootstrapJavascripts/07.PNG)  
+
+* * *
 
 * ทำการคัดลอก code และนำมาวาง  
 
-![img](images/EP07-03BootstrapJavascripts/08.PNG)  
+![](images/EP07-03BootstrapJavascripts/08.PNG)  
+
+* * *
 
 * เมื่อเปิดหน้า Web ขึ้นมา ก็จะปรากฏดังภาพ  
 
-![img](images/EP07-03BootstrapJavascripts/09.PNG)  
+![](images/EP07-03BootstrapJavascripts/09.PNG)  
+
+* * *
 
 * เมื่อกดที่ Launch demo modal ก็จะปรากฏดังภาพ  
 
-![img](images/EP07-03BootstrapJavascripts/10.PNG) 
+![](images/EP07-03BootstrapJavascripts/10.PNG) 
 
 * * *
 
 ### ส่วนประกอบต่างๆ ของ Code
-1. ส่วนที่เป็น Button  
+1) ส่วนที่เป็น Button  
 
-    Code  
+Code  
 
-![img](images/EP07-03BootstrapJavascripts/11.PNG)  
+![](images/EP07-03BootstrapJavascripts/11.PNG)  
 
-    สิ่งที่แสดงผล  
+สิ่งที่แสดงผล  
 
-![img](images/EP07-03BootstrapJavascripts/12.PNG)  
+![](images/EP07-03BootstrapJavascripts/12.PNG)  
 
-2. ส่วนที่เป็น Modal  
+* * *
 
-    Code  
+2) ส่วนที่เป็น Modal  
 
-![img](images/EP07-03BootstrapJavascripts/13.PNG)  
+Code  
 
-    สิ่งที่แสดงผล  
+![](images/EP07-03BootstrapJavascripts/13.PNG)  
 
-![img](images/EP07-03BootstrapJavascripts/14.PNG)  
+สิ่งที่แสดงผล  
 
-    ซึ่งเราสามารถปรับแต่ง component ให้ตรงตามความต้องการได้
+![](images/EP07-03BootstrapJavascripts/14.PNG)  
+
+ซึ่งเราสามารถปรับแต่ง component ให้ตรงตามความต้องการได้
 
 * * *
 
@@ -86,8 +102,8 @@ https://getbootstrap.com/docs/3.3/javascript/
 สามารถศึกษาเพิ่มเติมได้ที่ VDO ข้างล่าง
 
 
-[VDO Link : ](https://img.youtube.com/vi/6NmsLYSUkyU/0.jpg)
+[VDO Link : ](http://www.youtube.com/watch?v=6NmsLYSUkyU)
 
-[![](images/EP07-03BootstrapJavascripts/vdo.PNG)](https://img.youtube.com/vi/6NmsLYSUkyU/0.jpg)
+[![](images/EP07-03BootstrapJavascripts/vdo.PNG)](http://www.youtube.com/watch?v=6NmsLYSUkyU)
 
 หรือเข้าไปทดลองเลือกใช้งานดัวตัวเองได้ที่ https://getbootstrap.com/docs/3.3/javascript/ 
