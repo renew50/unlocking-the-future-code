@@ -11,3 +11,4 @@ EP06-02.md
 EP06-03ASP.NETCoreMVC.md
 EP07_01.md
 EP07_02.md
+EP07-03BootstrapJavascripts.md
