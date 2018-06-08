@@ -150,6 +150,6 @@ for ( INITIALIZER ; CONDITION ; ITERATOR )
 
 * * *
 
-[VDO Link : ]((https://www.youtube.com/watch?v=xNVTSZqgHXE)
+[VDO Link : ](https://www.youtube.com/watch?v=xNVTSZqgHXE)
 
 [![](images/EP11/00.PNG)](https://www.youtube.com/watch?v=xNVTSZqgHXE)
