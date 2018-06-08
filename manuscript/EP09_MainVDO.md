@@ -4,7 +4,7 @@
 
 - 03 Basic Scratch
 
-[![](images/EP09/Items.PNG)](https://www.facebook.com/digitalthailandclub/videos/403899840088828/)
+[![](images/EP09/00.PNG)](https://www.facebook.com/digitalthailandclub/videos/403899840088828/)
 
 unlocking TFC
 
