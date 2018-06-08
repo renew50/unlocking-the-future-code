@@ -7,7 +7,7 @@
 - 03 If-else
 - 04 Loop
 
-[![](images/EP09/Items.PNG)](https://www.facebook.com/digitalthailandclub/videos/405265609952251/)
+[![](images/EP11/00.PNG)](https://www.facebook.com/digitalthailandclub/videos/405265609952251/)
 
 unlocking TFC
 
