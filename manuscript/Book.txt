@@ -31,6 +31,7 @@ EP11_03.md
 EP11_04_loop.md
 EP12_MainVDO.md
 EP12.md
+EP13_MainVDO.md
 EP14_MainVDO.md
 EP14_01.md
 EP14_02.md
@@ -38,3 +39,5 @@ EP14_03.md
 EP14_04.md
 EP14_05.md
 EP14_06.md
+EP15_MainVDO.md
+EP16_MainVDO.md
