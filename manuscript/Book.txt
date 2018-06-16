@@ -30,3 +30,4 @@ EP11_02.md
 EP11_03.md
 EP11_04_loop.md
 EP12_MainVDO.md
+EP12.md
