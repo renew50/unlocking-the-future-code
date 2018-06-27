@@ -51,6 +51,7 @@ EP18_05.md
 EP19_MainVDO.md
 EP19_01.md
 EP19_02.md
+EP20_MainVDO.md
 EP20_01.md
 EP21_01.md
 EP21_02.md
