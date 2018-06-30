@@ -57,6 +57,7 @@ EP21_MainVDO.md
 EP21_01.md
 EP21_02.md
 EP22_MainVDO.md
+EP22_01.md
 EP23_MainVDO.md
 EP23_01.md
 EP23_02.md
