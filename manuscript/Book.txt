@@ -62,3 +62,5 @@ EP23_MainVDO.md
 EP23_01.md
 EP23_02.md
 EP23_03.md
+EP23_04.md
+EP24_01.md
