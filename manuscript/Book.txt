@@ -71,3 +71,7 @@ EP25_MainVDO.md
 EP26_MainVDO.md
 EP27_MainVDO.md
 EP28_MainVDO.md
+EP29_MainVDO.md
+EP30_MainVDO.md
+EP31_MainVDO.md
+EP32_MainVDO.md
